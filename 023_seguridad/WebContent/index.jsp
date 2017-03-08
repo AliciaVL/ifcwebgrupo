@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Seguridad</title>
+<title>Banco</title>
 </head>
 <body>
 <form action="Publico" method="get">
